@@ -1,5 +1,4 @@
 # Slack Acronym Expander
----
 
 Feed in acronyms and get back their meaning. 
 
